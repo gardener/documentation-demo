@@ -1,0 +1,9 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+aliases:
+  documentation-demo-reviewers:
+  - klocke-io
+  - n-boshnakov
+  documentation-demo-approvers:
+  - klocke-io
+  - n-boshnakov
