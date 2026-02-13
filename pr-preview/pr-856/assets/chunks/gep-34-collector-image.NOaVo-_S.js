@@ -1,0 +1,1 @@
+const s="/assets/gep-34-otel-operator-architecture.SWgUR6Py.png",t="/assets/gep-34-shoot-observability-architecture.sqXuR9sK.png",e="/assets/gep-34-collector-image.C0wEPZRz.png";export{s as _,t as a,e as b};
