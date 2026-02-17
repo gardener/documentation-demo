@@ -1,1 +1,0 @@
-const s="/assets/pvc-autoscaler.CiWllcWb.png",t="/assets/logging-storage-graph-1.QkZzty9X.png",o="/assets/logging-storage-graph-2.BitizNLG.png",a="/assets/monitoring-storage-graph-1.B_AjbEvw.png",g="/assets/monitoring-storage-graph-2.BdtMyUzv.png";export{s as _,t as a,o as b,a as c,g as d};
