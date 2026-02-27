@@ -1,1 +1,0 @@
-const s="/assets/monitoring.BSUcK5fe.png",e="/assets/prometheus-health-checks-garden.excalidraw.BTCzMTUg.png",t="/assets/prometheus-health-checks-seed.excalidraw.DjgMWa6p.png",a="/assets/prometheus-health-checks-shoot.excalidraw.CowmIYoT.png";export{s as _,e as a,t as b,a as c};
